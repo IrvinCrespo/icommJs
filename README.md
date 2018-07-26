@@ -7,3 +7,7 @@ como los controladores, modelos.
 
 Los modelos en IcommJS estan por defecto basados en MongoDB, con la ayuda de mongoose, una libreria para el manejo de documentos de 
 MongoDB en nodeJs.
+
+<code>
+  import
+</code>
