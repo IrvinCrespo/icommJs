@@ -11,5 +11,5 @@ MongoDB en nodeJs.
 Primero hay que instalar el cliente de icomm.
 
 <code>
-  npm install icommJs-cli
+  npm install -g icommJs-cli
 </code>
