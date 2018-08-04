@@ -2,5 +2,5 @@
 
 
 <code>
-  npm install -g icommJs-cli
+  npm install -g icomm-cli
 </code>

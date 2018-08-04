@@ -1,7 +1,7 @@
 {
-  "name": "ic-cli",
-  "version": "1.0.0",
-  "description": "icomm cli",
+  "name": "icomm-cli",
+  "version": "1.0.2",
+  "description": "icomm client for manage projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

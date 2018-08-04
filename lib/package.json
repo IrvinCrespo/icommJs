@@ -1,7 +1,7 @@
 {
   "name": "icomm",
-  "version": "0.0.1",
-  "description": "Nuevo framework chidori de icomm",
+  "version": "0.0.2",
+  "description": "Framework para creacion de api de forma rapida y sencilla. cuenta con sockets integrados por medio del proyecto de Socket.io",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -21,6 +21,9 @@
     "dotenv": "^6.0.0",
     "express": "^4.16.3",
     "express-fileupload": "^0.4.0",
+    "ic-debugger": "^1.0.0",
+    "icomm-mongo": "^1.0.0",
+    "icomm_mysql": "^1.0.0",
     "js-sha512": "^0.7.1",
     "jsonwebtoken": "^8.3.0",
     "moment": "^2.22.2",
@@ -28,6 +31,7 @@
     "mongodb": "^3.1.1",
     "mongoose": "^5.2.4",
     "mysql": "^2.16.0",
+    "mysql-ic-models": "^1.0.1",
     "os": "^0.1.1",
     "redis": "^2.8.0",
     "socket.io": "^2.1.1",
