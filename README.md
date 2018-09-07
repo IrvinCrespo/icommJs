@@ -15,12 +15,18 @@ MongoDB in nodeJs.
 Now in the new version, you can create models for mysql.
 Icomm continues in development, at the moment it has basic commands such as:
 
+#Create project
+
 <code>icomm g project (project name)</code>
 generates a new project with the name specified in the folder located
+
+#Create model
 
 <code>icomm g model (model name) (collection o table) --mysql or --mongo</code>
 Create a new model, you must specify what kind of model is going to be used by pointing to the database
 available for now in icomm.
+
+#Create controllers
 
 <code>icomm g controller (controller name) --api or --socket</code>
 create a controller, specifying the type of this by means of the options --api or --socket
@@ -46,12 +52,18 @@ MongoDB en nodeJs.
 Ahora en la nueva version, puedes crear modelos para mysql.
 Icomm continua en desarrollo, por el momento cuenta con comandos basicos como:
 
+#Crear un proyecto
+
 <code>icomm g project (nombre del proyecto)</code>
 genera un nuevo proyecto con el nombre especificado en la carpeta situada
+
+#Crear un modelo
 
 <code>icomm g model (nombre del modelo) (coleccion o tabla) --mysql o --mongo</code>
 Crea un nuevo modelo, se debe especificar que tipo de modelo se va a usar señalando la base de datos
 disponibles por ahora en icomm.
+
+#Crear un controlador
 
 <code>icomm g controller nombre_controlador --api o --socket</code>
 crea un controlador, especificando el tipo de este por medio de las opciones --api o --socket

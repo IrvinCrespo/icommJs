@@ -1,6 +1,6 @@
 {
   "name": "icomm-cli",
-  "version": "1.0.5",
+  "version": "1.0.9",
   "description": "icomm client for manage projects",
   "main": "index.js",
   "scripts": {
